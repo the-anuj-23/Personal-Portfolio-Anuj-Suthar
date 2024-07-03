@@ -2,7 +2,8 @@
 
 This is a personal portfolio website project created using HTML, CSS, and JavaScript. The website showcases the skills, projects, and achievements of Anuj Suthar, providing a professional online presence to attract potential employers and clients.
 
-![Portfolio Screenshot](path/to/your/screenshot.png)
+![Anuj_Suthar_Portfolio](https://github.com/the-anuj-23/Personal-Portfolio-Anuj-Suthar/assets/137100246/e1b054ce-4356-42ae-8d77-12e506f3a12c)
+
 
 ## Table of Contents
 
@@ -41,4 +42,12 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/anuj-suthar-portfolio.git
+   git clone https://github.com/the-anuj-23/Personal-Portfolio-Anuj-Suthar.git
+
+## Contact
+ANUJ SUTHAR - anujsuthar242@gmail.com
+
+Linkedin - https://www.linkedin.com/in/anuj-suthar-583995210/
+
+Github - https://github.com/the-anuj-23/
+
